@@ -2,7 +2,8 @@
 
 ## Overview
 
-The MyLang Compiler is a simple compiler that translates source code written in MyLang, a basic programming language, into equivalent C code. It includes a lexer, parser, and code generator to handle basic arithmetic expressions and variable assignments.
+The MyLang Compiler is a simple compiler that translates source code written in MyLang, a basic programming language, into equivalent C code. It includes a lexer, parser, and code generator to handle basic arithmetic expressions and variable assignments.To compile the project run make inside the project root. You need to have  `make` installed on your OS.
+
 
 ## Features
 
